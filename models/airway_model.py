@@ -3,7 +3,7 @@
 
 from networks.airway_network import UNet3D, normalize_CT, lumTrans
 from configs.airway_config import config
-from util.utils import InnerTransformer, sliding_window_inference
+from util.utils import InnerTransformer
 
 import torch
 import numpy as np
