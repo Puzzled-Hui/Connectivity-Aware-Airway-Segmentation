@@ -1,6 +1,6 @@
 # Connectivity-Aware-Airway-Segmentaion
 
-[**_Towards Connectivity-Aware Pulmonary Airway Segmentation_**]()
+[**_Towards Connectivity-Aware Pulmonary Airway Segmentation_**](https://ieeexplore.ieee.org/document/10283811)
 
 > By Minghui Zhang, Yun Gu
 >> Institute of Medical Robotics, Shanghai Jiao Tong University
