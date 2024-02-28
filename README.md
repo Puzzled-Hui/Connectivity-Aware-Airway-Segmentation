@@ -3,7 +3,7 @@
 [**_Towards Connectivity-Aware Pulmonary Airway Segmentation_**](https://ieeexplore.ieee.org/document/10283811)
 
 > By Minghui Zhang, Yun Gu
->> Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai
+>> Institute of Medical Robotics, Shanghai Jiao Tong University, Shanghai, China
 
 ## Introduction
 Detailed pulmonary airway segmentation is a clinically important task for endobronchial intervention and treatment of peripheral pulmonary lesions. 
