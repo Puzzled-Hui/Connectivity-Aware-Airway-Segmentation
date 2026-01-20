@@ -60,7 +60,7 @@ class CAS_COR(nn.Module):
         self.precision_range_lower = precision_range_lower = 0.001
         self.precision_range_upper = precision_range_upper = 1.0
         self.num_classes = 2
-        self.num_classes = 10
+        self.num_anchors = 10
 
         self.precision_range = (
             self.precision_range_lower,
